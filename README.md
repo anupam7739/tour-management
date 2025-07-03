@@ -6,7 +6,7 @@ A full-stack **Tour Management Web Application** that enables users to explore d
 
 ## 🔗 GitHub Repository
 
-👉 [https://github.com/sbharatdwaj/tour-management/tree/master](https://github.com/sbharatdwaj/tour-management/tree/master)
+👉 [https://github.com/anupam7739/tour-management/tree/main](https://github.com/anupam7739/tour-management/tree/main)
 
 ---
 
@@ -138,7 +138,7 @@ Create a Pull Request
 
 ### 🧑‍💻 Author
 
-Shivam Kumar
-MCA (Cybersecurity) | Galgotias University
-GitHub Profile(https://github.com/sbharatdwaj)
+Anupam Kumar Singh
+MCA  | Galgotias University
+GitHub Profile([https://github.com/anupam7739](https://github.com/anupam7739))
 
